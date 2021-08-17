@@ -23,7 +23,7 @@ let stdout = &mut std::io::stdout();
 let indt = indt::Indent(stdout);
 ```
 
-make indetion bigger 
+make indention bigger 
 
 ```rust
 indt.more()
