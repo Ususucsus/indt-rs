@@ -1,0 +1,12 @@
+[package]
+name = "indt"
+version = "0.1.0"
+authors = ["ususucsus <usarti@yandex.ru>"]
+edition = "2018"
+licence = "MIT"
+readme = "README.md"
+repository = "https://github.com/Ususucsus/indt-rs"
+homepage = "https://github.com/Ususucsus/indt-rs"
+description = "Provides writer for writing with indentions"
+
+[dependencies]
